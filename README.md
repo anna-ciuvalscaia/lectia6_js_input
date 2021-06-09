@@ -1,1 +1,1 @@
-# lectia6_js_input
+# lectia6_js_input_subscribe
